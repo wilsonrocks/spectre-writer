@@ -9,4 +9,5 @@ textarea {
     padding: 20px;
     box-sizing: border-box;
     resize: none;
+    overflow: scroll;
 }
