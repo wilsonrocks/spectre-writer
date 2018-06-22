@@ -37,7 +37,8 @@ class Editor extends React.Component {
                     id=""
                     cols="30"
                     rows="10"
-                    value={this.state.text}>
+                    value={this.state.text}
+                    placeholder="Write whatever you want in here. You can save and share your work by copying the URL.">
                 </textarea>
         </div>
         );
